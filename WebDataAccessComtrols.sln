@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDataAccessComtrols", "WebDataAccessComtrols\WebDataAccessComtrols.csproj", "{926F13FF-5F7E-435E-8F9F-D12BBC062BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{926F13FF-5F7E-435E-8F9F-D12BBC062BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926F13FF-5F7E-435E-8F9F-D12BBC062BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926F13FF-5F7E-435E-8F9F-D12BBC062BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926F13FF-5F7E-435E-8F9F-D12BBC062BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B5BD08-BD9A-4B25-854F-B5A2BA27E762}
+	EndGlobalSection
+EndGlobal
